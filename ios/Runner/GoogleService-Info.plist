@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCaKirTOBhsjUOF_Bk4heC6oCCb7aO8Jx0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>865240502713</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ecommerceapp</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-ecommerce-49ea8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-ecommerce-49ea8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:865240502713:ios:a9eab119bf9d09e8f5a668</string>
+</dict>
+</plist>
